@@ -10,7 +10,7 @@ body {
   font-family: Arial, Helvetica, sans-serif;
 }
 .hero_section {
-  background-image: url (/image.png);
+  background-image: url ("https://s3-alpha-sig.figma.com/img/f8c4/525d/b71b0744d36e2ae7dd639763e7992154?Expires=1744588800&Key-Pair-Id=APKAQ4GOSFWCW27IBOMQ&Signature=aUkC5lDqYj9N7vyp2HMSuQrERCFFLGB7rUygBtjl-oRuWJbWLyU21VllLnly-F-AABlxrMvUOsEsvW27FJp3TEE9ucKqPdnBqyC9zP4xd4XsV74P8LL9B7Qbos8H8KILMjx6MThcIMB5H8APVq8hbCVAU2PNZjfXyG5otWgbpM68BMaXTRnhJDGQqMg64SgF-ifwHeu75OGYIgKytofy1MVKaZuvhaHObfLlvc2v9D2x3-BXmad6tmx~s8dwcnPHCNybcRFOJI8rHcITXvtpVkJv9FI6UpNADdSvJH-nzyYZ5uylPS~Ugg17BgFQRTVFjg3LIAVUzTF8GMyAK4KCdw__");
   min-height: 100vh;
   background-position: center;
   background-size: cover;
